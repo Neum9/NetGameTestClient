@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.757
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetGameTestClient", "NetGameTestClient\NetGameTestClient.csproj", "{8F3E4AF1-CB9B-4957-932F-39FEB474076E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetGameClient", "NetGameClient\NetGameClient.csproj", "{8270C803-8AE2-46DF-819C-086AF267AF97}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{8F3E4AF1-CB9B-4957-932F-39FEB474076E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8F3E4AF1-CB9B-4957-932F-39FEB474076E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8F3E4AF1-CB9B-4957-932F-39FEB474076E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8270C803-8AE2-46DF-819C-086AF267AF97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8270C803-8AE2-46DF-819C-086AF267AF97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8270C803-8AE2-46DF-819C-086AF267AF97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8270C803-8AE2-46DF-819C-086AF267AF97}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
